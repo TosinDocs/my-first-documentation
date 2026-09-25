@@ -110,8 +110,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'API Docs',
+                to: '/docs/open-meteo-project',
               },
             ],
           },
